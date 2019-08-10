@@ -15,9 +15,22 @@ constructors :
 methods :
   public void showMonth()
     -used to print the month of the date.
-    
+
   public String month()
     -returns the name of month of the date
-    
+
   public bool isLeapyear()
-    
+     -checks if the year is leap year or not.
+
+  public int monthhasdays()
+     -returns the noof days the month has.
+  public void setDateDay(string day, Date )
+     -sets the day of the give date.
+  public int getDateDayStr () 
+     -returns the day in int format which can be set.
+  public string getDefaultDateDayint()
+     -returns the default day for given date.
+  public int getDefaultDateDayStr()
+     -returns the normal day in string format.
+  
+  
