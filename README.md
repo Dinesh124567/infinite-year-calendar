@@ -24,12 +24,16 @@ methods :
 
   public int monthhasdays()
      -returns the noof days the month has.
+     
   public void setDateDay(string day, Date )
      -sets the day of the give date.
+     
   public int getDateDayStr () 
      -returns the day in int format which can be set.
+     
   public string getDefaultDateDayint()
      -returns the default day for given date.
+     
   public int getDefaultDateDayStr()
      -returns the normal day in string format.
   
